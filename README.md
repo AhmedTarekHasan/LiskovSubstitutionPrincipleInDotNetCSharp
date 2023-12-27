@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/the-liskov-substitution-principle-explained-in-net-c-2a838b8a5155?sk=e12ebd1a8be3c4e2fb7a6670a487f8bf" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/solid-liskov-substitution-principle-explained-in-net-c" />
 
 # SOLID: Liskov Substitution Principle Explained In .NET C#
 ### Understand the Liskov Substitution Principle of the SO(L)ID principles in .NET C#
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*JTMDZeNxTjWXBieUws2p6w.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_2a85c3a3fd6541178302511561b2fbdb~mv2.png">
 </p>
 
 <br/>
@@ -58,4 +58,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/the-liskov-substitution-principle-explained-in-net-c-2a838b8a5155?sk=e12ebd1a8be3c4e2fb7a6670a487f8bf
+[Article]: https://www.developmentsimplyput.com/post/solid-liskov-substitution-principle-explained-in-net-c
